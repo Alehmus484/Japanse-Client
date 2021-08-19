@@ -1,2 +1,2 @@
-# Japanse-Client
-Lol-JapanseClient
+# Lol-JapanseClient
+
